@@ -1,0 +1,11 @@
+DPD-2734 Binary Evaluation Package
+
+This package is provided for evaluation and demonstration purposes only.
+
+The package contains compiled runtime binaries and supporting runtime files only. It does not include source code, build scripts, implementation documentation, design documentation, or internal technical notes.
+
+The purpose of this package is to allow the client to verify that the delivered runtime package can execute on the agreed Ubuntu 20.04 environment and demonstrate the expected CAN data provider behaviour.
+
+Source code and full technical documentation will be provided separately after successful evaluation and completion of the agreed commercial/payment terms.
+
+This evaluation package must not be redistributed, reverse engineered, modified, or used outside the agreed evaluation purpose without written permission.
